@@ -1,6 +1,6 @@
 <?php include "_partials/header.php" ?>
 
-Ahoj svet!
+test
 
 <div class="page-header">
     <h1>MY 1ST TO DO APP!</h1>
